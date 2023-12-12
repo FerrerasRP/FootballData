@@ -8,13 +8,13 @@ Football/Soccer data for anyone to use.
 ## Files
 
 - [Germany] - Bundesliga
-- [Brazil] - 
+- [Brazil] - Serie, a,b,c,d, estaduais, junior
 - [Spain] - La Liga
 - [Europa] - Eurocopa
 - [France] - Ligue 1
-- [England] - 
+- [England] - Premier Ligue, Liga
 - [Italy] - Serie A
-- [World] - 
+- [World] - Copa do mundo, amistosos
 
 ## Layout
 
