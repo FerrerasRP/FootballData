@@ -3,34 +3,39 @@ Football (Soccer) Data
 
 Football/Soccer data for anyone to use.
 
-**Files and datasets will move and schemas will change. Fork the project if you need a snapshot.**
+**Database to use with the pydirdbjson package. Fork the project if you need a snapshot.**
 
-## Files
+## Requirements
 
-- [Germany] - Bundesliga
-- [Brazil] - Serie, a,b,c,d, estaduais, junior
-- [Spain] - La Liga
-- [Europa] - Eurocopa
-- [France] - Ligue 1
-- [England] - Premier Ligue, Liga
-- [Italy] - Serie A
-- [World] - Copa do mundo, amistosos
+- [pydirdbjfon](https://pypi.org/project/pydirdbjson/)
 
-## Layout
+## database
 
-- [CSV] File
-    * Championship
-    * Round
-    * Date
-    * Home
-    * Away
-    * Goals Home
-    * Goals Away
-    * Goals 1T Home
-    * Goals 1T Away
-    * Goals 2T Home
-    * Goals 2T Away
+- ```database```
 
+## tables
+
+- ```brasil-campeonato-carioca``` - 2019, 2020, 2021, 2022, 2023, 2024, 2025
+- ```brasil-campeonato-paulista``` - 2019, 2020, 2021, 2022, 2023, 2024, 2025
+- ```brasil-campeonato-mineiro``` - 2019, 2020, 2021, 2022, 2023, 2024, 2025
+- ```brasil-serie-a``` - 2019, 2020, 2021, 2022, 2023, 2024, 2025
+- ```brasil-serie-b``` - 2019, 2020, 2021, 2022, 2023, 2024, 2025
+- ```alemanha-bundesliga``` - 2021-2022, 2022-2023, 2023-2024, 2024-2025
+- ```espanha-la-liga``` - 2021-2022, 2022-2023, 2023-2024, 2024-2025
+- ```franca-ligue-1``` - 2021-2022, 2022-2023, 2023-2024, 2024-2025
+- ```inglaterra-premier-league``` - 2021-2022, 2022-2023, 2023-2024, 2024-2025
+- ```italia-serie-a``` - 2021-2022, 2022-2023, 2023-2024, 2024-2025
+
+## records
+
+- [JSON] File
+    * match_date
+    * round
+    * home
+    * away
+    * goals_home
+    * goals_away
+    
 ## Contributors
 
 ## To Contribute
