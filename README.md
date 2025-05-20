@@ -3,11 +3,7 @@ Football (Soccer) Data
 
 Football/Soccer data for anyone to use.
 
-**Database to use with the pydirdbjson package. Fork the project if you need a snapshot.**
-
-## Requirements
-
-- [pydirdbjfon](https://pypi.org/project/pydirdbjson/)
+**Fork the project if you need a snapshot.**
 
 ## database
 
